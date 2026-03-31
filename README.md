@@ -4,13 +4,13 @@ A data science case study analyzing revenue trends across major DSPs (Spotify, Y
 
 ## Motivation
 
-Streaming royalty structures vary significantly across platforms — a stream on Spotify is not worth the same as one on YouTube or TikTok. This project models per-platform RPS using trailing windows to produce defensible revenue accrual forecasts, accounting for platform-specific reporting lags and structural anomalies (e.g. the TikTok volume/RPS paradox).
+Streaming royalty structures vary significantly across platforms - a stream on Spotify is not worth the same as one on YouTube or TikTok. This project models per-platform RPS using trailing windows to produce defensible revenue accrual forecasts, accounting for platform-specific reporting lags and structural anomalies (e.g. the TikTok volume/RPS paradox).
 
 ## Tech Stack
 
-- **Python** — pandas, numpy, matplotlib, seaborn
-- **Jupyter Notebook** — analysis and visualization
-- **Excel** — output reporting
+- **Python** - pandas, numpy, matplotlib, seaborn
+- **Jupyter Notebook** - analysis and visualization
+- **Excel** - output reporting
 
 ## Repo Structure
 
